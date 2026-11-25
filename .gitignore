@@ -55,3 +55,12 @@ build_*/
 .cache/
 .ipython/
 .keras/
+
+# Other
+.claude/
+.claude.json
+.copilot/
+.config/
+.dotnet/
+.local/
+.vscode-server/
